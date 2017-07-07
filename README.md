@@ -145,4 +145,25 @@ Sunday, July 30
 
 8:00pm
  Telephreak / 2600net Party – https://telephreak.org/ (Been told it’s a “Go find it” party)
+ 
+ ________________________-
+ Havent had time to catagorize these:
+ 
+ https://pages.bugcrowd.com/defcon-suite-2017
+
+https://pages.bugcrowd.com/defcon-party-rockhouse-2017
+
+https://events.urbanesecurity.com/BH17/
+
+https://www.qualys.com/2017/blackhat/reception/
+
+https://duo.com/resources/events/duos-second-wind-breakfast-at-black-hat
+
+http://info.acalvio.com/bh17?utm_campaign=Events&utm_source=hs_email&utm_medium=email&utm_content=53753909&_hsenc=p2ANqtz-8WZKwiyuhf2JUesdfOhcV6ryvu_zO2nhNvz9Jlx_u_hrfVbYOGdgLKBY_92u-bu_luDI8f0lpPrPGNDHItR0FOfqu1rQ&_hsmi=53753909
+
+gurucul.com: RSVP w/ jessica.haskin@gurucul.com
+
+https://www.eventbrite.com/e/kudelski-security-bash-at-black-hat-2017-tickets-35582919470
+
+
 
